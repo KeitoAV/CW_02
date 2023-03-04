@@ -1,4 +1,4 @@
-# **course_work_2**
+# **Course_work_2**
 
 _Игра в слова._
 
